@@ -60,7 +60,7 @@ CodeMap Algorithms
 - LCP
 - SCC
 - Smaller to larger
-- 세그먼트 트리, 팬윅 트리
+- 세그먼트 트리, 펜윅 트리
 - 휴리스틱 (담금질 기법)
 - 이분 매칭
 - 고속 푸리에 변환
