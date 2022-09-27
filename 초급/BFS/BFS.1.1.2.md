@@ -1,6 +1,6 @@
 #include <iostream>
 #include <queue>
-#incldue <vector>
+#include <vector>
 using namespace std;
 
 vector<vector<int>> adj;  // adjacency list representation
